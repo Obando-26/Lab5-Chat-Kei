@@ -6,6 +6,9 @@
   },
   "scripts": {
     "start": "node server.js",
-    "test": "mocha"
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.1.3"
   }
 }
